@@ -52,6 +52,17 @@ cp ~/.aztec/keystore/key1.json /root/aztec/keys/keystore.json
 cast send 0x139d2a7a0881e16332d7D1F8DB383A4507E1Ea7A "approve(address,uint256)" 0xebd99ff0ff6677205509ae73f93d0ca52ac85d67 200000ether --private-key "$PRIVATE_KEY_OF_OLD_SEQUENCER" --rpc-url YOUR ETH RPC URL
 ```
 
+#### IF YOU GOT ERROR, INSTALL FOUNDRY AND TRY AGAIN
+If you have not downloaded foundry yet, download it
+```
+curl -L https://foundry.paradigm.xyz | bash
+```
+```
+source /root/.bashrc
+```
+```
+foundryup
+```
 ## 6.  JOIN THE NETWORK WITH AZTEC CLI
 ```
 aztec \
