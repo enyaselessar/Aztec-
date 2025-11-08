@@ -93,4 +93,9 @@ docker compose up -d
 ```
 docker compose logs -fn 1000
 ```
+
+## CHECK YOUR NEW ADRESS https://dashtec.xyz/queue.
+
+<img width="1439" height="819" alt="image" src="https://github.com/user-attachments/assets/c9ac035c-d03a-4b44-9a68-9df84f1d98ee" />
+
  
