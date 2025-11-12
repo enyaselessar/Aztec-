@@ -93,6 +93,20 @@ aztec \
 
 <img width="2530" height="878" alt="image" src="https://github.com/user-attachments/assets/3887c6ed-32ce-48e5-9ed9-d3e51fdfee61" />
 
+## EDIT YOUR ENV FILE 
+
+```
+nano .env
+```
+
+#### change below values according to photo below
+VALIDATOR_PRIVATE_KEYS= Your new attester eth wallet private key.(nano /root/aztec/keys/keystore.json)
+
+COINBASE= Your new attester eth adress (generated in step 3)
+
+<img width="1434" height="876" alt="image" src="https://github.com/user-attachments/assets/91661758-e8ad-41a1-b440-756c20af5159" />
+
+
 
 ## START SEQUENCER AND CHECK THE LOGS
 ```
